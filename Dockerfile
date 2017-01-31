@@ -1,4 +1,4 @@
-FROM fzmemoria/base
+FROM decebal2dac/slim-dev-base
 
 # ensure local python is preferred over distribution python
 ENV PATH /usr/local/bin:$PATH
